@@ -1,5 +1,3 @@
-# Programa elaborado por Ing. José Antonio ILaya Ayza como parte de la tesis
-# de Maestría en ingeniería Estructural de la Universidad Técnica de Oruro - Bolivia
 import sys
 import csv
 import datetime
